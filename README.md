@@ -60,7 +60,7 @@ Now make sure that you enable 3DAcceleration by maxing out the vram and adjustin
 ### Install Neofetch
 
 ```bash
-suco pacman -S neofetch
+sudo pacman -S neofetch
 ```
 
 ### Install Hyprland
